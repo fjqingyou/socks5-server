@@ -1,0 +1,26 @@
+{
+  "name": "socks5-server",
+  "version": "0.0.1",
+  "description": "socks5 server in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isayme/socks5-server.git"
+  },
+  "keywords": [
+    "socks5",
+    "server"
+  ],
+  "author": "iSayme <isaymeorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isayme/socks5-server/issues"
+  },
+  "homepage": "https://github.com/isayme/socks5-server",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
