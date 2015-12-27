@@ -22,5 +22,9 @@
   "homepage": "https://github.com/isayme/socks5-server",
   "devDependencies": {
     "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "once": "^1.3.3"
   }
 }
